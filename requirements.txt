@@ -1,3 +1,5 @@
 requests==2.31.0
 tkinter
 pip freeze > requirements.txt
+pandas==1.5.3
+
